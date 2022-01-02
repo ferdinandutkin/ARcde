@@ -21,7 +21,7 @@ public class LeveledLoggerDecorator : ILogger
         };
     }
 
-    public bool IsEnabled(LogLevel logLevel) => _level == logLevel && _logger.IsEnabled(logLevel);
+    public bool IsEnabled(LogLevel logLevel) => logLevel >= _level && _logger.IsEnabled(logLevel);
 
     public IDisposable BeginScope<TState>(TState state) => _logger.BeginScope(state);
 

@@ -1,4 +1,5 @@
 ﻿using Data.Serialization;
+using Auto.Interfaces;
 
 namespace Data.Repository.Builder;
 

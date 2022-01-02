@@ -2,7 +2,7 @@
 
 public class CarProduct : Product<Car>
 {
-    internal CarProduct(Car car, int price, int count) : base(car)
+    public CarProduct(Car car, int price, int count) : base(car)
     {
         Price = price;
         Count = count;

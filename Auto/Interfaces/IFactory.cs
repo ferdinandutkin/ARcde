@@ -1,6 +1,6 @@
 ﻿namespace Auto.Interfaces;
 
-internal interface IFactory<TArgs, TResult>
+public interface IFactory<TArgs, TResult>
 {
-    TResult? CreateInstance(TArgs args);
+    TResult? CreateInstance(TArgs officeName);
 }

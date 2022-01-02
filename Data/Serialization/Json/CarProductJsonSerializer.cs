@@ -1,8 +1,7 @@
 ﻿using System.Text.Json;
 using Auto.Product;
-using Data.Serialization;
 
-namespace Auto.Serialization.Json
+namespace Data.Serialization.Json
 {
     internal class CarProductJsonSerializer : JsonSerializer<CarProduct[]>
     {

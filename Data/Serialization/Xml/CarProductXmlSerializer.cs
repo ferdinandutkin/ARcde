@@ -1,8 +1,7 @@
 ﻿using Auto.Product;
 using AutoMapper;
-using Data.Serialization;
 
-namespace Auto.Serialization.Xml;
+namespace Data.Serialization.Xml;
 
 public class CarProductXmlSerializer : XmlSerializer<CarProduct[]>
 {

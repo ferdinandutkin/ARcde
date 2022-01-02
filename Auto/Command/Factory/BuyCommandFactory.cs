@@ -12,8 +12,8 @@ internal class BuyCommandFactory : IFactory<UserRequest, IRollbackCommand>
     {
         _branchOffice = branchOffice;
     }
-    public IRollbackCommand? CreateInstance(UserRequest args)
+    public IRollbackCommand? CreateInstance(UserRequest officeName)
     {
-        return new BuyCommand(_branchOffice, new BuyCommandArguments(args.Model, args.Count));
+        return new BuyCommand(_branchOffice, new BuyCommandArguments(officeName.Model, officeName.Count));
     }
 }

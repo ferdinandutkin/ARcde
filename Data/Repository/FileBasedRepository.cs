@@ -1,4 +1,6 @@
-﻿namespace Data.Repository;
+﻿using Auto.Interfaces;
+
+namespace Data.Repository;
 
 public abstract class FileBasedRepository<T> : IRepository<T>
    where T : class
