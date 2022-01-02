@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using Auto.Product;
 
-namespace Auto.Serialization.Json;
+namespace Data.Serialization.Json;
 
 internal class CarJsonConverter : JsonConverterBase<Car>
 {

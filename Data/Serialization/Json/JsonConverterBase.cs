@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Auto.Serialization.Json;
+namespace Data.Serialization.Json;
 
 internal abstract class JsonConverterBase<T> : JsonConverter<T>
 {

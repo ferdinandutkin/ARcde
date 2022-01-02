@@ -1,6 +1,5 @@
-﻿using Auto.Product;
-using Data;
-using Data.Repository;
+﻿using Auto.Interfaces;
+using Auto.Product;
 
 namespace Auto;
 

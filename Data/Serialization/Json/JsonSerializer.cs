@@ -1,4 +1,4 @@
-﻿namespace Data.Serialization;
+﻿namespace Data.Serialization.Json;
 
 public class JsonSerializer<T> : ISerializer<T>
 {

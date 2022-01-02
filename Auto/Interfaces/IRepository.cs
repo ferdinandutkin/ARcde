@@ -1,4 +1,4 @@
-﻿namespace Data.Repository;
+﻿namespace Auto.Interfaces;
 
 public interface IRepository<T>
 {

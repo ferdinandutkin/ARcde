@@ -1,4 +1,5 @@
 ﻿using Auto;
+using Data.Repository;
 using Microsoft.Extensions.Configuration;
 using Shared.IO;
 using Shared.Logging;
@@ -10,21 +11,23 @@ public class Program
 {
     static void Main()
     {
-        var configurations = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: false)
-                .Build()
-                .GetLoggerConfigurations();
+        var configuration = new ConfigurationBuilder()
+            .AddJsonFile("appsettings.json", optional: false)
+            .Build();
+        
+        var loggerConfigurations = configuration.GetLoggerConfigurations();
+        var storageConfigurations = configuration.GetStorageConfigurations();
 
 
 
         var logger = new LoggerFactory()
-            .FromConfigurations(configurations);
+            .FromConfigurations(loggerConfigurations);
 
 
         new InputProcessor(
             new RequestParser(),
             new UserRequestProcessor(
-                new HeadOffice(logger)), IOProvider.Instance).Start();
+                new HeadOffice(new RepositoryFactory(storageConfigurations), logger)), IOProvider.Instance).Start();
 
     }
 }

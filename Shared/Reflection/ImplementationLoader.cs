@@ -25,10 +25,10 @@ public class ImplementationLoader<T>
         var implementations = assemblyToScan.ExportedTypes
             .Where(type => interfaceType.IsAssignableFrom(type) && !type.IsInterface);
 
-        var defaultConstructableImpementations = implementations
+        var defaultConstructableImplementations = implementations
             .Where(ReflectionExtensions.HasParameterlessConstructor);
 
-        return defaultConstructableImpementations;
+        return defaultConstructableImplementations;
     }
 
 

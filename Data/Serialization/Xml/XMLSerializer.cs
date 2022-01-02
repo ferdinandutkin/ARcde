@@ -1,4 +1,4 @@
-﻿namespace Data.Serialization;
+﻿namespace Data.Serialization.Xml;
 
 public class XmlSerializer<T> : ISerializer<T>
 {

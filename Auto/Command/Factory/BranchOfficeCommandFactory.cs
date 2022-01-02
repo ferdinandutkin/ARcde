@@ -14,18 +14,18 @@ internal class BranchOfficeCommandFactory : IFactory<UserRequest, ICommand>
         _branchOffices = branchOffices;
     }
 
-    public ICommand? CreateInstance(UserRequest args)
+    public ICommand? CreateInstance(UserRequest officeName)
     {
-        var branchOffice = _branchOffices.Where(branchOffice => branchOffice.Mark == args.Mark).FirstOrDefault();
+        var branchOffice = _branchOffices.Where(branchOffice => branchOffice.Mark == officeName.Mark).FirstOrDefault();
 
-        OfficeNotFoundException.ThrowIfNull(branchOffice, args.Mark);
+        OfficeNotFoundException.ThrowIfNull(branchOffice, officeName.Mark);
 
-        var factory = args.Type switch
+        var factory = officeName.Type switch
         {
             UserRequestType.Show => new ShowCommandFactory(branchOffice!),
             _ => null
         };
 
-        return factory?.CreateInstance(args);
+        return factory?.CreateInstance(officeName);
     }
 }

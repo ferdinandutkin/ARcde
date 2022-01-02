@@ -8,9 +8,10 @@ namespace User
     {
 
 
-        private static readonly Parser<int> _intParser = from op in Parse.Char('-').Token().Optional()
-                                                         from num in Parse.Number
-                                                         select int.Parse(num) * (op.IsDefined ? -1 : 1);
+        private static readonly Parser<int> _intParser = Parse.Char('-')
+            .Token()
+            .Optional()
+            .SelectMany(op => Parse.Number, (op, num) => int.Parse(num) * (op.IsDefined ? -1 : 1));
 
 
         private static readonly Parser<UserRequestType> _typeParser =

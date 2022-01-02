@@ -1,6 +1,6 @@
 ﻿using Auto.Command.Factory;
 using Auto.Interfaces;
-using Auto.Repository;
+using Auto.Product;
 using Auto.Request;
 using Microsoft.Extensions.Logging;
 using Shared.IO;
@@ -11,24 +11,24 @@ namespace Auto;
 public class HeadOffice 
 {
     private const int transactionSize = 10;
-
     private readonly Transaction _transaction;
-
-    private readonly IReadOnlyCollection<BranchOffice> _branchOffices = new List<BranchOffice>
-    {
-            new("audi", BranchOfficeRepository.CreateInstance("audi")),
-            new("bmw", BranchOfficeRepository.CreateInstance("bmw"))
-    };
-
+    private readonly IFactory<string, IRepository<CarProduct>> _repositoryFactory;
+    private readonly IReadOnlyCollection<BranchOffice> _branchOffices;
     private readonly IFactory<UserRequest, ICommand> _commandFactory;
-
     private readonly IFactory<UserRequest, IRollbackCommand> _rollbackCommandFactory;
-
     private readonly ILogger _logger;
     private readonly IIOProvider _ioProvider;
 
-    public HeadOffice(ILogger? logger = null,  IIOProvider? ioProvider = null)
+    public HeadOffice(IFactory<string, IRepository<CarProduct>> repositoryFactory, ILogger? logger = null,  IIOProvider? ioProvider = null)
     {
+        _repositoryFactory = repositoryFactory;
+        
+        _branchOffices = new List<BranchOffice>
+        {
+            new("audi", _repositoryFactory.CreateInstance("audi")),
+            new("bmw", _repositoryFactory.CreateInstance("bmw"))
+        };
+        
         _logger = logger ?? Logger.Instance;
         _ioProvider = ioProvider ?? IOProvider.Instance;
         
