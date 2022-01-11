@@ -2,7 +2,7 @@
 
 public abstract class Product<T>
 {
-
+    public int Id { get; set; }
     public Product(T subject) => Subject = subject;
 
     public virtual int Price { get; set; }

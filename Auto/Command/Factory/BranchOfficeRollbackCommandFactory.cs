@@ -13,19 +13,19 @@ internal class BranchOfficeRollbackCommandFactory : IFactory<UserRequest, IRollb
     }
 
 
-    public IRollbackCommand? CreateInstance(UserRequest officeName)
+    public IRollbackCommand? CreateInstance(UserRequest userRequest)
     {
-        var branchOffice = _branchOffices.Where(branchOffice => branchOffice.Mark == officeName.Mark).FirstOrDefault();
+        var branchOffice = _branchOffices.Where(branchOffice => branchOffice.Mark == userRequest.Mark).FirstOrDefault();
 
         ArgumentNullException.ThrowIfNull(branchOffice, "branch office not found unknown car mark");
 
-        IFactory<UserRequest, IRollbackCommand>? factory = officeName.Type switch
+        IFactory<UserRequest, IRollbackCommand>? factory = userRequest.Type switch
         {
             UserRequestType.Sell => new BuyCommandFactory(branchOffice),
             UserRequestType.Buy => new SellCommandFactory(branchOffice),
             _ => null,
         };
 
-        return factory?.CreateInstance(officeName);
+        return factory?.CreateInstance(userRequest);
     }
 }

@@ -1,5 +1,3 @@
-using User;
-
 namespace Shared;
 
 public class StorageConfiguration

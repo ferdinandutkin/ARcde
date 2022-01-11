@@ -2,12 +2,12 @@
 
 namespace Shared.Logging;
 
-public class LeveledLoggerDecorator : ILogger
+public class MinLogLevelDecorator : ILogger
 {
     private readonly ILogger _logger;
     private readonly LogLevel _minLogLevel;
 
-    public LeveledLoggerDecorator(ILogger logger, LogLevel minLogLevel)
+    public MinLogLevelDecorator(ILogger logger, LogLevel minLogLevel)
     {
         _logger = logger;
         _minLogLevel = minLogLevel;
@@ -15,7 +15,7 @@ public class LeveledLoggerDecorator : ILogger
 
     public void Log<TState>(LogLevel logLevel, EventId eventId, TState state, Exception? exception, Func<TState, Exception?, string> formatter)
     {
-        if (logLevel > _minLogLevel)
+        if (logLevel >= _minLogLevel)
         {
             _logger.Log(logLevel, eventId, state, exception, formatter);
         };

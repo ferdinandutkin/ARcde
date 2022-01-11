@@ -1,15 +1,22 @@
-﻿namespace Data.Serialization.Json;
+﻿using System.Text.Json;
 
-public class JsonSerializer<T> : ISerializer<T>
+namespace Data.Serialization.Json;
+
+public class JsonSerializer<T> : SerializerBase<T>
 {
-    protected readonly System.Text.Json.JsonSerializerOptions Options;
+    protected readonly JsonSerializerOptions Options;
     
-    public JsonSerializer(System.Text.Json.JsonSerializerOptions options)
+    public JsonSerializer(JsonSerializerOptions options)
     {
         Options = options;
     }
-    public virtual string Serialize(T value) => System.Text.Json.JsonSerializer.Serialize(value, Options);
 
-    public virtual T Deserialize(string text) => System.Text.Json.JsonSerializer.Deserialize<T>(text, Options);
+    public JsonSerializer()
+    {
+        Options = new JsonSerializerOptions();
+    }
+    public override string Serialize(T value) => JsonSerializer.Serialize(value, Options);
+
+    public override T Deserialize(string text) => System.Text.Json.JsonSerializer.Deserialize<T>(text, Options);
 
 }
