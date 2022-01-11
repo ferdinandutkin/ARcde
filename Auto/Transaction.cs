@@ -1,6 +1,6 @@
 ﻿using Auto.Interfaces;
+using Auto.IO;
 using Microsoft.Extensions.Logging;
-using Shared.IO;
 using Shared.Logging;
 
 namespace Auto;
@@ -21,16 +21,17 @@ internal class Transaction
     private readonly ILogger _logger;
 
     private readonly IIOProvider _ioProvider;
-    internal Transaction(ILogger? logger = null, IIOProvider? ioProvider = null)
+    internal Transaction(IIOProvider ioProvider, ILogger? logger = null)
     {
         _logger = logger ?? Logger.Instance;
-        _ioProvider = ioProvider ?? IOProvider.Instance;
+        _ioProvider = ioProvider;
+
     }
 
     private void Rollback()
     {
         _logger.LogInformation("Starting rollback");
-        _ioProvider.WriteString("Starting rollback");
+        _ioProvider.Write("Starting rollback");
 
         foreach (var executedCommand in _executedCommands)
         {
@@ -41,7 +42,7 @@ internal class Transaction
             catch (Exception e)
             {
                 _logger?.LogError($"Exception {e} was caught in {nameof(Rollback)} method");
-                _ioProvider.WriteString($"Exception with message \"{e.Message}\" was caught while trying to rollback");
+                _ioProvider.Write($"Exception with message \"{e.Message}\" was caught while trying to rollback");
             }
 
         }
@@ -67,7 +68,7 @@ internal class Transaction
             catch (Exception e)
             {
 
-                _ioProvider.WriteString($"Exception with message \"{e.Message}\" was caught while trying to execute all commands");
+                _ioProvider.Write($"Exception with message \"{e.Message}\" was caught while trying to execute all commands");
 
                 _logger.LogError($"Exception {e} was caught in {nameof(Execute)} method");
 
@@ -80,7 +81,7 @@ internal class Transaction
         }
         _commands.Clear();
         _logger.LogTrace("Transaction completed successfully");
-        _ioProvider.WriteString("Transaction completed successfully");
+        _ioProvider.Write("Transaction completed successfully");
 
     }
 

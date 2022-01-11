@@ -27,9 +27,9 @@ public class EFRepository<T> : IRepository<T> where T : class
         return value;
     }
 
-    public void Delete(T item)
+    public void Delete(T value)
     {
-        Entities.Remove(item);
+        Entities.Remove(value);
         DbContext.SaveChanges();
     }
     

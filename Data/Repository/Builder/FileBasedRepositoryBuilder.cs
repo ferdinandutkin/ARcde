@@ -3,7 +3,7 @@ using Auto.Interfaces;
 
 namespace Data.Repository.Builder;
 
-public class FileBasedRepositoryBuilder<T> : IRepositoryBuilder<T> where T : class
+public class FileBasedRepositoryBuilder<T> : IRepositoryBuilder<T> where T : class, IEntity
 {
     private string? _basePath;
     private string? _name;

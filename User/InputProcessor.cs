@@ -1,7 +1,8 @@
 ﻿using Auto.Interfaces;
-using Shared.IO;
+using Auto.IO;
+using Console.IO;
 
-namespace User;
+namespace Console;
 
 internal class InputProcessor
 {
@@ -12,7 +13,7 @@ internal class InputProcessor
 
     public InputProcessor(IRequestParser requestParser, IUserRequestProcessor requestProcessor, IIOProvider? ioProvider = null)
     {
-        _ioProvider = ioProvider ?? IOProvider.Instance;
+        _ioProvider = ioProvider ?? new ConsoleIOProvider();
         _requestParser = requestParser;
         _requestProcessor = requestProcessor;
 
@@ -31,12 +32,12 @@ internal class InputProcessor
 
                 if (unprocessed is not null)
                 {
-                    _ioProvider.WriteString("Unsupported request type. No request processor was able to process it");
+                    _ioProvider.Write("Unsupported request type. No request processor was able to process it");
                 }
             }
             catch (Exception e)
             {
-                _ioProvider.WriteString(e.Message);
+                _ioProvider.Write(e.Message);
             }
 
         }

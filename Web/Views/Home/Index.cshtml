@@ -1,0 +1,33 @@
+﻿
+@using Microsoft.AspNetCore.Mvc.Rendering
+@model Web.Models.IndexModel
+<link href="@Url.Content("~/css/StyleSheet.css")" rel="stylesheet" type="text/css" />
+<table>
+    <tr>
+        <th>Марка</th>
+        <th>Модель</th>
+        <th>Цена</th>
+        <th>Количество</th>
+    </tr>
+    @foreach (var product in Model.Products)
+    {
+        <tr>
+            <td>@product.Subject.Mark</td>
+            <td>@product.Subject.Model</td>
+            <td>@product.Price</td>
+            <td>@product.Count</td>
+        </tr>
+    }
+</table>
+
+
+
+@await Html.PartialAsync("../BuyForm", Model.BuyFormModel)
+
+@await Html.PartialAsync("../SellForm", Model.SellFormModel)
+
+
+
+
+
+

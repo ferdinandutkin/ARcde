@@ -1,8 +1,8 @@
 ﻿using Auto.Request;
-using Shared.IO;
+using Console.IO;
 using Sprache;
 
-namespace User
+namespace Console
 {
     internal class RequestParser : IRequestParser
     {
@@ -22,9 +22,9 @@ namespace User
 
         private static readonly Parser<string> _showRequestBodyParser =
             from leading in Parse.WhiteSpace.Many()
-            from mark in Parse.LetterOrDigit.Many().Text()
+            from mark in Parse.LetterOrDigit.Many().Text().Optional()
             from trailing in Parse.WhiteSpace.Many()
-            select mark;
+            select mark.GetOrDefault();
 
 
         private static readonly Parser<(int count, string mark, string model)> _buySellRequestBodyParser =
@@ -43,7 +43,7 @@ namespace User
 
 
         private static readonly Parser<UserRequest> _showRequestParser =
-             ExactTypeParser(UserRequestType.Show).Then(type => _showRequestBodyParser.Select(body => new UserRequest(type) { Mark = body, IOProvider = IOProvider.Instance }));
+             ExactTypeParser(UserRequestType.Show).Then(type => _showRequestBodyParser.Select(body => new UserRequest(type) { Mark = body, IOProvider = new ConsoleIOProvider() }));
 
 
         private static readonly Parser<UserRequest> _buySellRequestParser
@@ -52,7 +52,7 @@ namespace User
 
 
         private static readonly Parser<UserRequest> _helpRequestParser
-           = ExactTypeParser(UserRequestType.Help).Then(type => Parse.Return(new UserRequest(type) { IOProvider = IOProvider.Instance }));
+           = ExactTypeParser(UserRequestType.Help).Then(type => Parse.Return(new UserRequest(type) { IOProvider = new ConsoleIOProvider() }));
 
 
 

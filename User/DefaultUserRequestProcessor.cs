@@ -1,7 +1,7 @@
 ﻿using Auto.Interfaces;
 using Auto.Request;
 
-namespace User.RequestProcessor;
+namespace Console;
 
 internal class DefaultUserRequestProcessor : IUserRequestProcessor
 {
@@ -28,7 +28,7 @@ internal class DefaultUserRequestProcessor : IUserRequestProcessor
 
 
 
-                request.IOProvider.WriteString(help);
+                request.IOProvider.Write(help);
             }
             return null;
         }

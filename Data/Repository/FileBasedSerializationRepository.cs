@@ -1,8 +1,9 @@
-﻿using Data.Serialization;
+﻿using Auto.Interfaces;
+using Data.Serialization;
 
 namespace Data.Repository;
 
-public class FileBasedSerializationRepository<T> : FileBasedRepository<T> where T : class
+public class FileBasedSerializationRepository<T> : FileBasedRepository<T> where T : class, IEntity
 {
     private readonly ISerializer<T[]> _serializer;
 

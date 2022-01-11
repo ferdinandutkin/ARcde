@@ -2,8 +2,8 @@
 using Auto.Interfaces;
 using Auto.Request;
 
-namespace User.RequestProcessor;
-internal class HeadOfficeUserRequestProcessor : IUserRequestProcessor
+namespace IO.RequestProcessor;
+public class HeadOfficeUserRequestProcessor : IUserRequestProcessor
 {
     private readonly HeadOffice _headOffice;
 

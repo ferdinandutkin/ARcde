@@ -16,15 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="audi.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="bmw.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Serialization" />
   </ItemGroup>
 

@@ -3,7 +3,7 @@
 namespace Data.Repository;
 
 public abstract class FileBasedRepository<T> : IRepository<T>
-   where T : class
+   where T : class, IEntity
 {
     private HashSet<T> _cache;
     protected virtual string BasePath { get; set; }
@@ -48,23 +48,37 @@ public abstract class FileBasedRepository<T> : IRepository<T>
 
     public virtual T? Add(T value)
     {
-        if (Cache.Contains(value))
-            return null;
-
-        if (Cache.Add(value))
+        if (value.Id == 0)
         {
-            SaveChanges();
-            return value;      
+            if (Cache.All(el => el.Id != 0))
+            {
+                Cache.Add(value);
+                SaveChanges();
+                return value;
+            }
+         
+        }
+        
+
+        if (value.Id != 0 && Cache.Any(el => el.Id == value.Id))
+        {
+            return null;
         }
 
-        return null;
+        var newId = Cache.Max(el => el.Id) + 1;
+        value.Id = newId;
+        Cache.Add(value);
+        SaveChanges();
+        return value;
+
     }
 
-    public virtual void Delete(T t)
+    public virtual void Delete(T value)
     {
-        if (Cache.Contains(t))
+        var found = Cache.FirstOrDefault(el => el.Id == value.Id);
+        if (found is not null)
         {
-            Cache.Remove(t);
+            Cache.Remove(found);
             SaveChanges();
         }
     }
@@ -72,10 +86,16 @@ public abstract class FileBasedRepository<T> : IRepository<T>
 
     public virtual T Update(T value)
     {
-        Cache.Remove(value);
-        Cache.Add(value);
-        SaveChanges();
-        return value;
+        var found = Cache.FirstOrDefault(el => el.Id == value.Id);
+        if (found is not null)
+        {
+            Cache.Remove(found);
+            Cache.Add(value);
+            SaveChanges();
+            return value;
+        }
+        return null;
+      
     }
 
 

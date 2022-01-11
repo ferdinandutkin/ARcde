@@ -1,9 +1,9 @@
 ﻿using Auto.Command.Factory;
 using Auto.Interfaces;
+using Auto.IO;
 using Auto.Product;
 using Auto.Request;
 using Microsoft.Extensions.Logging;
-using Shared.IO;
 using Shared.Logging;
 
 namespace Auto;
@@ -16,7 +16,7 @@ public partial class HeadOffice
     private readonly ILogger _logger;
     private readonly IIOProvider _ioProvider;
 
-    public HeadOffice(IFactory<string, IRepository<CarProduct>> repositoryFactory, ILogger? logger = null,  IIOProvider? ioProvider = null)
+    public HeadOffice(IFactory<string, IRepository<CarProduct>> repositoryFactory, IIOProvider ioProvider, ILogger? logger = null)
     {
         
         _branchOffices = new List<BranchOffice>
@@ -26,7 +26,7 @@ public partial class HeadOffice
         };
         
         _logger = logger ?? Logger.Instance;
-        _ioProvider = ioProvider ?? IOProvider.Instance;
+        _ioProvider = ioProvider;
 
         _requestProcessor = new RequestProcessor(logger, ioProvider, _branchOffices);
 

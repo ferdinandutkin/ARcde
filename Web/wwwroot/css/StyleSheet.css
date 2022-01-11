@@ -1,0 +1,12 @@
+﻿table {
+    width: 100%;
+    border: 2px solid black;
+}
+
+th {
+    text-align: left;
+}
+
+fieldset > * {
+    margin-top: 5%;
+}

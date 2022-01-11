@@ -3,7 +3,7 @@
 namespace Data.Repository.Builder
 {
     
-    public class RepositoryBuilder<T> : IRepositoryBuilder<T> where T : class
+    public class RepositoryBuilder<T> : IRepositoryBuilder<T> where T : class, IEntity
     {
         public FileBasedRepositoryBuilder<T> FileBased()
         {

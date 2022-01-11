@@ -1,6 +1,8 @@
-﻿namespace Auto.Product;
+﻿using Auto.Interfaces;
 
-public class Car
+namespace Auto.Product;
+
+public class Car : IEntity
 {
     public int Id { get; set; }
 

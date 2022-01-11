@@ -1,8 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
-using Shared;
 using Shared.Logging;
 
-namespace User;
+namespace Shared;
 
 public static class IConfigurationExtensions
 {

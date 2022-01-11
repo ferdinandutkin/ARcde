@@ -1,11 +1,11 @@
 ﻿using Auto;
+using Console.IO;
 using Data.Repository;
 using Microsoft.Extensions.Configuration;
-using Shared.IO;
+using Shared;
 using Shared.Logging;
-using User.RequestProcessor;
 
-namespace User;
+namespace Console;
 
 public class Program
 {
@@ -20,11 +20,12 @@ public class Program
         
         var logger = new LoggerFactory()
             .FromConfigurations(loggerConfigurations);
-        
+        var ioProvider = new ConsoleIOProvider();
+
         new InputProcessor(
             new RequestParser(),
-            new UserRequestProcessor(
-                new HeadOffice(new RepositoryFactory(storageConfigurations), logger)), IOProvider.Instance).Start();
+            new ConsoleRequestProcessor(
+                new HeadOffice(new RepositoryFactory(storageConfigurations), ioProvider, logger)), ioProvider).Start();
 
     }
 }

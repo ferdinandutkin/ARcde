@@ -1,6 +1,6 @@
 ﻿using Auto.Request;
 
-namespace User;
+namespace Console;
 
 internal interface IRequestParser
 {

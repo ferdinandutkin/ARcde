@@ -1,8 +1,8 @@
 ﻿using Auto.Command.Factory;
 using Auto.Interfaces;
+using Auto.IO;
 using Auto.Request;
 using Microsoft.Extensions.Logging;
-using Shared.IO;
 
 namespace Auto;
 
@@ -34,7 +34,7 @@ public partial class HeadOffice
             _rollbackCommandFactory = new BranchOfficeRollbackCommandFactory(branchOffices);
             _commandFactory = new BranchOfficeCommandFactory(branchOffices);
 
-            _transaction = new(_logger);
+            _transaction = new(_ioProvider, _logger);
             _transaction.CommandQueueSizeChanged += CommandQueueSizeChanged;
         }
         public UserRequest? ProcessRequest(UserRequest request)
@@ -42,8 +42,10 @@ public partial class HeadOffice
 
             ICommand? command = _commandFactory.CreateInstance(request);
 
+
             if (command is not null)
             {
+                _logger.LogDebug($"command {command} created");
                 command.Execute();
                 return null;
             }
@@ -52,6 +54,7 @@ public partial class HeadOffice
 
             if (rollbackCommand is not null)
             {
+                _logger.LogDebug($"rollback command {rollbackCommand} created");
                 _transaction.PushCommand(rollbackCommand);
                 return null;
             }

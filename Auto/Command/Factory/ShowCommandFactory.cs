@@ -5,14 +5,19 @@ namespace Auto.Command.Factory;
 
 internal class ShowCommandFactory : IFactory<UserRequest, ICommand>
 {
-    private readonly BranchOffice _branchOffice;
+    private readonly BranchOffice[] _branchOffices;
 
     public ShowCommandFactory(BranchOffice branchOffice)
     {
-        _branchOffice = branchOffice;
+        _branchOffices = new[] { branchOffice };
+    }
+
+    public ShowCommandFactory(IReadOnlyCollection<BranchOffice> offices)
+    {
+        _branchOffices = offices.ToArray();
     }
     public ICommand? CreateInstance(UserRequest userRequest)
     {
-        return new ShowCommand(_branchOffice, new Arguments.ShowCommandArguments(userRequest.IOProvider));
+        return new ShowCommand(_branchOffices, new Arguments.ShowCommandArguments(userRequest.IOProvider));
     }
 }
