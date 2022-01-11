@@ -2,8 +2,8 @@
 
 public interface IRepository<T>
 {
-    T Add(T t);
+    T Add(T value);
     IEnumerable<T> All();
     void Delete(T t);
-    T Update(T t);
+    T Update(T value);
 }

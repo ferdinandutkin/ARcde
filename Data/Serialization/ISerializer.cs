@@ -1,9 +1,14 @@
 ﻿namespace Data.Serialization;
 
-public interface ISerializer<T>
+public interface ISerializer
+{
+    string Serialize(object value);
+    object Deserialize(string text);
+}
+public interface ISerializer<T> : ISerializer
 {
     string Serialize(T value);
-    T Deserialize(string text);
+    new T Deserialize(string text);
 }
 
  

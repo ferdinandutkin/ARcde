@@ -17,13 +17,10 @@ public class Program
         
         var loggerConfigurations = configuration.GetLoggerConfigurations();
         var storageConfigurations = configuration.GetStorageConfigurations();
-
-
-
+        
         var logger = new LoggerFactory()
             .FromConfigurations(loggerConfigurations);
-
-
+        
         new InputProcessor(
             new RequestParser(),
             new UserRequestProcessor(

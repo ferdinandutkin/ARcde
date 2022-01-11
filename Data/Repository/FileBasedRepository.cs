@@ -6,8 +6,6 @@ public abstract class FileBasedRepository<T> : IRepository<T>
    where T : class
 {
     private HashSet<T> _cache;
-
- 
     protected virtual string BasePath { get; set; }
     protected virtual string TableName { get; set; }
 
@@ -48,15 +46,15 @@ public abstract class FileBasedRepository<T> : IRepository<T>
     public virtual IEnumerable<T> All() => Cache;
 
 
-    public virtual T? Add(T t)
+    public virtual T? Add(T value)
     {
-        if (Cache.Contains(t))
+        if (Cache.Contains(value))
             return null;
 
-        if (Cache.Add(t))
+        if (Cache.Add(value))
         {
             SaveChanges();
-            return t;      
+            return value;      
         }
 
         return null;
@@ -72,12 +70,12 @@ public abstract class FileBasedRepository<T> : IRepository<T>
     }
 
 
-    public virtual T Update(T t)
+    public virtual T Update(T value)
     {
-        Cache.Remove(t);
-        Cache.Add(t);
+        Cache.Remove(value);
+        Cache.Add(value);
         SaveChanges();
-        return t;
+        return value;
     }
 
 

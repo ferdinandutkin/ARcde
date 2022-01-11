@@ -2,6 +2,8 @@
 
 public class Car
 {
+    public int Id { get; set; }
+
     public readonly string Mark;
 
     public readonly string Model;

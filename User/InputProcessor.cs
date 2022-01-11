@@ -31,7 +31,7 @@ internal class InputProcessor
 
                 if (unprocessed is not null)
                 {
-                    _ioProvider.WriteString("Unsupported request type. No request proccessor was able to process it");
+                    _ioProvider.WriteString("Unsupported request type. No request processor was able to process it");
                 }
             }
             catch (Exception e)

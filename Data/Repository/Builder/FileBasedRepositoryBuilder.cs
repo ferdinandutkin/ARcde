@@ -3,12 +3,12 @@ using Auto.Interfaces;
 
 namespace Data.Repository.Builder;
 
-public class FileBasedRepositoryBuilder<T> where T : class
+public class FileBasedRepositoryBuilder<T> : IRepositoryBuilder<T> where T : class
 {
     private string? _basePath;
     private string? _name;
     private string? _extension;
-    private ISerializer<T[]> _serializer;
+    private ISerializer<T[]>? _serializer;
 
     public FileBasedRepositoryBuilder<T> WithExtension(string extension)
     {
@@ -41,8 +41,16 @@ public class FileBasedRepositoryBuilder<T> where T : class
         return this;
     }
 
+
     public IRepository<T> Build()
-        => new FileBasedSerializationRepository<T>(_basePath ?? Directory.GetCurrentDirectory(), _name ?? "data",
-            _extension ?? "txt", _serializer);
+    {
+        var basePath = _basePath ?? Directory.GetCurrentDirectory();
+        var name = _name ?? "data";
+        string extension = _extension ?? "txt";
+
+        return new FileBasedSerializationRepository<T>(basePath, name,
+           extension, _serializer);
+    }
+     
 
 }

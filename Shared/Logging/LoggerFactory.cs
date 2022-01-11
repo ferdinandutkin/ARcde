@@ -26,7 +26,7 @@ public class LoggerFactory
     {
         var (assemblyPath, level) = configuration;
         var logger = FromAssembly(assemblyPath);
-        var leveledLogger = new LeveledLoggerDecorator(logger, level);
+        var leveledLogger = new MinLogLevelDecorator(logger, level);
         return leveledLogger;
     }
     public ILogger FromAssemblies(IEnumerable<string> assemblyPathsToScan) => new CompositeLogger(assemblyPathsToScan.Select(FromAssembly));

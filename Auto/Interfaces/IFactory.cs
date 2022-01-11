@@ -2,5 +2,5 @@
 
 public interface IFactory<TArgs, TResult>
 {
-    TResult? CreateInstance(TArgs officeName);
+    TResult? CreateInstance(TArgs userRequest);
 }

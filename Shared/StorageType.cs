@@ -1,4 +1,4 @@
-namespace User;
+namespace Shared;
 
 public enum StorageType
 {
