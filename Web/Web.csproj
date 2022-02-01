@@ -7,17 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="audi.json" />
-    <Content Remove="bmw.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="audi.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="bmw.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="wwwroot\css\StyleSheet.css">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -31,7 +20,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Auto\Auto.csproj" />
     <ProjectReference Include="..\Data\Data.csproj" />
-    <ProjectReference Include="..\IO\IO.csproj" />
+    <ProjectReference Include="..\RequestProcessing\RequestProcessing.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
   </ItemGroup>
 
 </Project>

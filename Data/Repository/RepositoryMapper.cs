@@ -27,10 +27,10 @@ namespace Data.Repository
             return _mapper.Map<TTo[]>(all);
         }
 
-        public void Delete(TTo value)
+        public void Remove(TTo value)
         {
             var mapped = _mapper.Map<TFrom>(value);
-            _source.Delete(mapped);
+            _source.Remove(mapped);
         }
 
         public TTo Update(TTo value)

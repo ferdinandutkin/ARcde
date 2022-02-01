@@ -17,7 +17,8 @@ public class ApplicationContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(
-            $@"Server=localhost;Initial Catalog={_databaseName.ToLower()};Integrated Security=true;");
+            $@"Server=localhost;Initial Catalog={_databaseName.ToLower()};Integrated Security=true;")
+            .UseLazyLoadingProxies();
 
     }
 }

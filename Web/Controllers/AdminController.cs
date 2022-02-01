@@ -38,4 +38,10 @@ public class AdminController : Controller
 
         return RedirectToAction("Index");
     }
+
+    [HttpPost("edit")]
+    public IActionResult Edit(string model)
+    {
+        return RedirectToAction("Edit");
+    }
 }

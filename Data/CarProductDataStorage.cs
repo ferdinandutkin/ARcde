@@ -15,5 +15,5 @@ public class CarProductDataStorage : IEntity
         public string Model { get; set; }
 
     }
-    public CarDataStorage Subject { get; set; }
+    public virtual CarDataStorage Subject { get; set; }
 }

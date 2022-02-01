@@ -17,7 +17,7 @@ public class EFRepository<T> : IRepository<T> where T : class
         return value;
     }
 
-    public virtual IEnumerable<T> All() => Entities.AsNoTracking();
+    public virtual IEnumerable<T> All() => Entities;
     
     
     public virtual T Update(T value)
@@ -27,7 +27,7 @@ public class EFRepository<T> : IRepository<T> where T : class
         return value;
     }
 
-    public void Delete(T value)
+    public void Remove(T value)
     {
         Entities.Remove(value);
         DbContext.SaveChanges();

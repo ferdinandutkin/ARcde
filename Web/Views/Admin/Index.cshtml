@@ -1,7 +1,6 @@
 ﻿@model AdminViewModel
-<div>
-    Админ
-</div>
+@addTagHelper *, Web
+
 
 <link href="@Url.Content("~/css/StyleSheet.css")" rel="stylesheet" type="text/css" />
 
@@ -19,19 +18,10 @@
             <td>@product.Subject.Model</td>
             <td>@product.Price</td>
             <td>@product.Count</td>
+            
             <td>
-                <button onclick="(() =>
-{
-    fetch(`@Url.Action("Delete", "Admin", new {product.Subject.Mark, product.Subject.Model})`, {
-        method:'DELETE'
-    }).then(response => {
-        console.log(response.status);
-        window.location.reload();});
-
-})()">Delete
-                </button>
-
-
+                <button asp-method="Delete" asp-controller="Admin" asp-action="Delete" asp-route-mark="@product.Subject.Mark", asp-route-model="@product.Subject.Model">Удалить</button>
+                <button asp-method="Post" asp-controller="Admin" asp-action="Edit" asp-route-mark="@product.Subject.Mark", asp-route-model="@product.Subject.Model">Изменить</button>
             </td>
         </tr>
     }

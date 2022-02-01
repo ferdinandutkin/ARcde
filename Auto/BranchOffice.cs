@@ -46,7 +46,7 @@ internal class BranchOffice
 
         Products.Remove(product);
 
-        _repository.Delete(product);
+        _repository.Remove(product);
     }
 
     internal void Sell(string model, int count)

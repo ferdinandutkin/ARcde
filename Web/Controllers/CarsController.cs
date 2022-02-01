@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Web.Mediator.Arguments;
 using Web.Mediator.Requests;
-using Web.Models;
 using Web.ViewModels;
 
 namespace Web.Controllers

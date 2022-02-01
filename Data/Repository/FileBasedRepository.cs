@@ -73,7 +73,7 @@ public abstract class FileBasedRepository<T> : IRepository<T>
 
     }
 
-    public virtual void Delete(T value)
+    public virtual void Remove(T value)
     {
         var found = Cache.FirstOrDefault(el => el.Id == value.Id);
         if (found is not null)
