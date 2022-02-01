@@ -17,7 +17,5 @@ internal class ShowCommandFactory : IFactory<UserRequest, ICommand>
         _branchOffices = offices.ToArray();
     }
     public ICommand? CreateInstance(UserRequest userRequest)
-    {
-        return new ShowCommand(_branchOffices, new Arguments.ShowCommandArguments(userRequest.IOProvider));
-    }
+        => new ShowCommand(_branchOffices, new Arguments.ShowCommandArguments(userRequest.IOProvider));
 }

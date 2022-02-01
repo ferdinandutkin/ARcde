@@ -3,16 +3,18 @@ using Microsoft.AspNetCore.Mvc;
 using Web.Mediator.Arguments;
 using Web.Mediator.Requests;
 using Web.Models;
+using Web.ViewModels;
 
 namespace Web.Controllers
 {
     [Route("/")]
-    public class HomeController : Controller
+    [Route("[controller]")]
+    public class CarsController : Controller
     {
 
         private readonly IMediator _mediator;
 
-        public HomeController(IMediator mediator)
+        public CarsController(IMediator mediator)
         {
             _mediator = mediator;
         }
@@ -21,7 +23,7 @@ namespace Web.Controllers
         {
             var carProducts = await _mediator.Send(new ShowRequest(new ()));
 
-            return View(new IndexModel(carProducts));
+            return View(new IndexViewModel(carProducts));
         }
 
        
@@ -47,6 +49,7 @@ namespace Web.Controllers
             var models = await _mediator.Send(new GetModelsRequest(new(mark)));
             return Json(models);
         }
+
 
     }
 }

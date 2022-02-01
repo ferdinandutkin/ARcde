@@ -1,0 +1,43 @@
+﻿@using Web.Mediator.Arguments
+@model Web.ViewModels.BuyFormViewModel
+
+<form asp-controller="Cars" asp-action="Buy" method="post" id="buy">
+    <fieldset>
+        <legend>
+            Покупка
+        </legend>
+        
+        <label>
+            Введите марку:
+            <select name="@nameof(BuyRequestArguments.Mark)" asp-items="@(Model.Marks.Select(mark => new SelectListItem(mark, mark)))"></select>
+        </label>
+        
+        <br/>
+        
+        <label>
+            Введите модель:
+            <select name="@nameof(BuyRequestArguments.Model)" asp-items="@(Model.Models.Select(model => new SelectListItem(model ,model)))"></select>
+        </label>
+        
+        <br/>
+        
+        <label>
+            Количество:
+            <input name="@nameof(BuyRequestArguments.Count)" type="number" value="1" min = "0", max = "@Model.MaxCount"/>
+        </label>
+        
+        <br />
+        <input type="submit" value="Отправить"/>
+    
+    
+    </fieldset>
+</form>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded',
+        () => {
+            attach_handler(document.getElementById("buy"));
+        });
+  
+</script>

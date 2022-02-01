@@ -16,18 +16,20 @@ internal class BranchOfficeCommandFactory : IFactory<UserRequest, ICommand>
 
     public ICommand? CreateInstance(UserRequest userRequest)
     {
-        var branchOffice = _branchOffices.Where(branchOffice => branchOffice.Mark == userRequest.Mark).FirstOrDefault();
+        var branchOffice = _branchOffices.FirstOrDefault(branchOffice => branchOffice.Mark == userRequest.Mark);
 
         if (userRequest.Type != UserRequestType.Show)
         {
             OfficeNotFoundException.ThrowIfNull(branchOffice, userRequest.Mark);
         }
-      
 
-        var factory = userRequest.Type switch
+
+        IFactory<UserRequest, ICommand>? factory = userRequest.Type switch
         {
             UserRequestType.Show when branchOffice is null => new ShowCommandFactory(_branchOffices),
             UserRequestType.Show => new ShowCommandFactory(branchOffice!),
+            UserRequestType.Add => new AddCommandFactory(branchOffice!),
+            UserRequestType.Remove => new RemoveCommandFactory(branchOffice!),
             _ => null
         };
 

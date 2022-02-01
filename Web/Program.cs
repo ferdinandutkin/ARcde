@@ -38,6 +38,8 @@ builder.Services.AddSingleton<IUserRequestProcessor, HeadOfficeUserRequestProces
 builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<IRequestHandler<BuyRequest, Unit>, UserRequestHandler<BuyRequest>>();
 builder.Services.AddTransient<IRequestHandler<SellRequest, Unit>, UserRequestHandler<SellRequest>>();
+builder.Services.AddTransient<IRequestHandler<AddRequest, Unit>, UserRequestHandler<AddRequest>>();
+
 
 
 

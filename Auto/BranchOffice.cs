@@ -3,6 +3,8 @@ using Auto.Product;
 
 namespace Auto;
 
+
+ 
 internal class BranchOffice 
 {
     public string Mark { get; set; }
@@ -28,6 +30,23 @@ internal class BranchOffice
         product.Count += count;
 
         _repository.Update(product);
+    }
+
+    internal void Add(string model, int count, int price)
+    {
+        var product = new CarProduct(new Car(Mark, model), price, count);
+        Products.Add(product);
+
+        _repository.Add(product);
+    }
+
+    internal void Remove(string model)
+    {
+        var product = Products.FirstOrDefault(product => product.Subject.Model == model) ?? throw new ArgumentException($"Unknown model: \"{model}\"");
+
+        Products.Remove(product);
+
+        _repository.Delete(product);
     }
 
     internal void Sell(string model, int count)

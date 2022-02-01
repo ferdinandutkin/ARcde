@@ -1,8 +1,8 @@
 ﻿using Auto.Product;
 
-namespace Web.Models
+namespace Web.ViewModels
 {
-    public class BuyFormModel
+    public class BuyFormViewModel
     {
         public IReadOnlyDictionary<string, string[]> MarkModelsDictionary { get; }
 
@@ -11,7 +11,7 @@ namespace Web.Models
         public IReadOnlyCollection<string> Models { get; }
 
         public int MaxCount { get; }
-        public BuyFormModel(IReadOnlyCollection<CarProduct> carProducts)
+        public BuyFormViewModel(IReadOnlyCollection<CarProduct> carProducts)
         {
             MarkModelsDictionary = carProducts.ToLookup(product => product.Subject.Mark, product => product.Subject.Model)
                 .ToDictionary(product => product.Key, product => product.ToArray());

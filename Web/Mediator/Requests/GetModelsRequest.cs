@@ -1,14 +1,13 @@
 ﻿using MediatR;
 using Web.Mediator.Arguments;
 
-namespace Web.Mediator.Requests
+namespace Web.Mediator.Requests;
+
+public class GetModelsRequest : IRequest<string[]>
 {
-    public class GetModelsRequest : IRequest<string[]>
+    public string Mark { get; }
+    public GetModelsRequest(GetModelsRequestArguments arguments)
     {
-        public string Mark { get; }
-        public GetModelsRequest(GetModelsRequestArguments arguments)
-        {
-            Mark = arguments.Mark;
-        }
+        Mark = arguments.Mark;
     }
 }

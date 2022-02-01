@@ -1,0 +1,44 @@
+﻿@using Web.Mediator.Arguments
+ 
+
+<form asp-controller="Admin" asp-action="Add" method="post">
+    <fieldset>
+        <legend>
+            Добавить
+        </legend>
+
+        <br/>
+
+        <label>
+            Марка:
+            <input name="@nameof(AddRequestArguments.Mark)"/>
+        </label>
+
+        <br/>
+
+        <label>
+            Модель:
+            <input name="@nameof(AddRequestArguments.Model)"/>
+        </label>
+
+        <br/>
+
+        <label>
+            Количество:
+            <input name="@nameof(AddRequestArguments.Count)" type="number" min="0"/>
+        </label>
+
+        <br/>
+
+        <label>
+            Цена:
+            <input name="@nameof(AddRequestArguments.Price)" type="number" min="0"/>
+        </label>
+
+        <br />
+
+        <input type="submit" value="Отправить"/>
+    </fieldset>
+   
+
+</form>

@@ -13,7 +13,5 @@ internal class SellCommandFactory : IFactory<UserRequest, IRollbackCommand>
         this._branchOffice = branchOffice;
     }
     public IRollbackCommand? CreateInstance(UserRequest userRequest)
-    {
-        return new SellCommand(_branchOffice, new SellCommandArguments(userRequest.Model, userRequest.Count));
-    }
+        => new SellCommand(_branchOffice, new SellCommandArguments(userRequest.Model, userRequest.Count));
 }

@@ -205,3 +205,843 @@ Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.Show
 Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
 Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
 Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.SellCommand created - rollback command Auto.Command.SellCommand created
+Information - 0 - Transaction completed successfully - Transaction completed successfully
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.RemoveCommand created - rollback command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.RemoveCommand created - rollback command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.RemoveCommand created - rollback command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.RemoveCommand created - rollback command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - rollback command Auto.Command.RemoveCommand created - rollback command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.AddCommand created - command Auto.Command.AddCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.RemoveCommand created - command Auto.Command.RemoveCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created
+Debug - 0 - command Auto.Command.ShowCommand created - command Auto.Command.ShowCommand created

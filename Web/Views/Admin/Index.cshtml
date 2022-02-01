@@ -1,0 +1,40 @@
+﻿@model AdminViewModel
+<div>
+    Админ
+</div>
+
+<link href="@Url.Content("~/css/StyleSheet.css")" rel="stylesheet" type="text/css" />
+
+<table>
+    <tr>
+        <th>Марка</th>
+        <th>Модель</th>
+        <th>Цена</th>
+        <th>Количество</th>
+    </tr>
+    @foreach (var product in Model.Products)
+    {
+        <tr>
+            <td>@product.Subject.Mark</td>
+            <td>@product.Subject.Model</td>
+            <td>@product.Price</td>
+            <td>@product.Count</td>
+            <td>
+                <button onclick="(() =>
+{
+    fetch(`@Url.Action("Delete", "Admin", new {product.Subject.Mark, product.Subject.Model})`, {
+        method:'DELETE'
+    }).then(response => {
+        console.log(response.status);
+        window.location.reload();});
+
+})()">Delete
+                </button>
+
+
+            </td>
+        </tr>
+    }
+</table>
+
+<partial name="AddForm"/>

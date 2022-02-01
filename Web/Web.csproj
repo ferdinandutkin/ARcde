@@ -13,10 +13,10 @@
 
   <ItemGroup>
     <None Include="audi.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="bmw.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="wwwroot\css\StyleSheet.css">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

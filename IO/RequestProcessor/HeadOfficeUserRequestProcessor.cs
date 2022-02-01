@@ -11,7 +11,9 @@ public class HeadOfficeUserRequestProcessor : IUserRequestProcessor
     {
             UserRequestType.Buy,
             UserRequestType.Sell,
-            UserRequestType.Show
+            UserRequestType.Show,
+            UserRequestType.Remove,
+            UserRequestType.Add,
     };
 
     public HeadOfficeUserRequestProcessor(HeadOffice headOffice) => _headOffice = headOffice;

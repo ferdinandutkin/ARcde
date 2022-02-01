@@ -1,3 +1,3 @@
 ﻿namespace Auto.Request;
 
-public enum UserRequestType { Buy, Sell, Show, Help }
+public enum UserRequestType { Buy, Sell, Show, Help, Add, Remove }

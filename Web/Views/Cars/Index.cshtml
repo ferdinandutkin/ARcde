@@ -1,6 +1,6 @@
 ﻿
 @using Microsoft.AspNetCore.Mvc.Rendering
-@model Web.Models.IndexModel
+@model Web.ViewModels.IndexViewModel
 <link href="@Url.Content("~/css/StyleSheet.css")" rel="stylesheet" type="text/css" />
 <table>
     <tr>
@@ -20,13 +20,9 @@
     }
 </table>
 
+<partial name="BuyForm" model="Model.BuyFormViewModel"/>
 
-
-@await Html.PartialAsync("../BuyForm", Model.BuyFormModel)
-
-@await Html.PartialAsync("../SellForm", Model.SellFormModel)
-
-
+<partial name="SellForm" model="Model.SellFormViewModel"/>
 
 
 
