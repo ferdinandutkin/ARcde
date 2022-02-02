@@ -1,28 +1,49 @@
-﻿
-@using Microsoft.AspNetCore.Mvc.Rendering
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
 @model Web.ViewModels.IndexViewModel
-<link href="@Url.Content("~/css/StyleSheet.css")" rel="stylesheet" type="text/css" />
-<table>
-    <tr>
-        <th>Марка</th>
-        <th>Модель</th>
-        <th>Цена</th>
-        <th>Количество</th>
-    </tr>
-    @foreach (var product in Model.Products)
-    {
-        <tr>
-            <td>@product.Subject.Mark</td>
-            <td>@product.Subject.Model</td>
-            <td>@product.Price</td>
-            <td>@product.Count</td>
-        </tr>
-    }
-</table>
+<div class="container mx-auto pt-2">
+    <div class="row justify-content-center">
+        @foreach (var product in Model.Products)
+        {
+            <div class="car-card p-3 m-2 bg-white" style="width: 18rem;">
+                <div class="col">
+                    <div class="row pb-3">
+                        <div class="col-9">
+                            <span class="text-black-50 text-uppercase" style="font-size: 0.7em; font-weight: bold;">@product.Subject.Mark</span>
+                            <h5 class="card-title">@product.Subject.Model</h5>
+                        </div>
+                        <div class="col-3">
+                            <a class="float-end btn btn-outline-danger" style="display: block;" href="#" role="button"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                    @*Remove image url*@
+                    <img class="card-img-top" src="https://im0-tub-by.yandex.net/i?id=16e21a518f766976c0ffe752a44eb2ec-l&n=13" alt="Car image">
+                    <div class="row p-1">
+                        <div class="col-6">
+                            <span class="text-black-50 fw-bold">Brand:</span><span class="fw-bold text-uppercase"> @product.Subject.Mark</span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            @*Refactor margin and font size*@
+                            <p class="fw-bold" style="font-size: 1.55em; margin: 0;">$@product.Price</p>
+                        </div>
+                        <div class="col d-grid">
+                            @using (Html.BeginForm("CarsController", "Buy", FormMethod.Post))
+                            {
+                                 @Html.Hidden("id", product.Id)
+                                <input type="submit" value="Buy" class="btn btn-danger" style="width: 100%;"/>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
 
-<partial name="BuyForm" model="Model.BuyFormViewModel"/>
+<partial name="BuyForm" model="Model.BuyFormViewModel" />
 
-<partial name="SellForm" model="Model.SellFormViewModel"/>
+<partial name="SellForm" model="Model.SellFormViewModel" />
 
 
 

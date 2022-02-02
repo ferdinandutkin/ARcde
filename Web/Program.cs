@@ -43,11 +43,10 @@ builder.Services.AddSingleton<IUrlHelperFactory, UrlHelperFactory>();
 
 
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 
- 
 
 var app = builder.Build();
 
